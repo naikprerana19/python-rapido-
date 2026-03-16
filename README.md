@@ -28,4 +28,5 @@ Python
 
 CLI (Command Line Interface)
 
-linkedin post:
+linkedin post: https://www.linkedin.com/feed/update/urn:li:activity:7439188449963929600/
+
